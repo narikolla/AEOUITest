@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AEO Test">
+	<test name="Test Checkout">
+		<classes>
+			<class name="com.aeo.test.AEOUITests" />
+ 		</classes>
+	</test>
+</suite>
